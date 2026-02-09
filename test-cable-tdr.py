@@ -12,7 +12,7 @@ ACCESS_SWITCHES = {
 }
 
 USERNAME = "cisco"
-PASSWORD = "Xadmin74377"
+PASSWORD = "cisco123"
 
 def read_shell_output(shell, timeout=2):
     """Read available output from shell"""
@@ -283,4 +283,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 ```
